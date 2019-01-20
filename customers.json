@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "grade": 14,
+    "city": "Clown Town"
+  },
+  {
+    "id": 2,
+    "name": "Steve",
+    "grade": 15,
+    "city": "Fox Town"
+  },
+  {
+    "id": 3,
+    "name": "Phillip",
+    "grade": 16,
+    "city": "Looney Town"
+  },
+  {
+    "id": 1,
+    "name": "Roger",
+    "grade": 17,
+    "city": "Phoney Town"
+  }
+]
